@@ -1,6 +1,6 @@
 # Balancing Sustainability, Sovereignty, and Security: An Industrial Case Study
 This repository is a companion page for the following publication:
-> Salsabeel Tantousha, Markus Funkea, Patricia Lagoa, Wiebren van der Zee. 2025. Balancing Sustainability, Sovereignty, and Security: An Industrial Case Study. 15th International Conference on Sustainable Energy Information Technology (SEIT).
+> Salsabeel Tantoush, Markus Funke, Patricia Lago, Wiebren van der Zee. 2025. Balancing Sustainability, Sovereignty, and Security: An Industrial Case Study. 15th International Conference on Sustainable Energy Information Technology (SEIT).
 
 It contains the online material for this paper
 
